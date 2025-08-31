@@ -1,0 +1,13 @@
+Location,Date,AQI,PM2.5 (μg/m3),NO2 (ppb),SO2 (ppb),Noise Level (dB),Main Pollution Source
+Downtown,2025-06-01,120,35,28,15,72,Traffic
+Suburb,2025-06-01,60,12,9,5,55,Residential Heating
+Industrial Area,2025-06-01,180,48,52,39,80,Factories
+Park,2025-06-01,40,8,4,2,45,Low
+Downtown,2025-06-02,125,38,32,16,74,Traffic
+Suburb,2025-06-02,58,11,10,5,54,Residential Heating
+Industrial Area,2025-06-02,190,50,60,40,82,Factories
+Park,2025-06-02,45,9,5,2,47,Low
+Downtown,2025-06-03,130,36,30,14,73,Traffic
+Suburb,2025-06-03,65,13,8,4,56,Residential Heating
+Industrial Area,2025-06-03,175,45,48,35,78,Factories
+Park,2025-06-03,38,7,3,1,43,Low
